@@ -1,3 +1,21 @@
+# FORKED FROM> 
+
+Forked from: https://github.com/HenryVillavicencio/Encuentra-Aulas-Libres
+
+This fork is meant to build up on the work of https://github.com/HenryVillavicencio. Providing a version in english and with additional features.
+
+This project was proposed by me for a college class, and Henry developped the prototype, you can see his work and contribute to it on: 
+https://github.com/HenryVillavicencio/Encuentra-Aulas-Libres
+
+I have a different vision for this project, mainly: 
+  Droping react , and build it on android
+  Drop firebase and replace it with mysql/ laravel middleware on cloud. 
+ 
+  
+  
+
+
+
 # Encuentra-Aulas-Libres
 
 Debido a la limitada capacidad de las bibliotecas los estudiantes de la FIEE de la Escuela Politécnica Nacional se han visto obligado a buscar aulas disponibles para estudiar, realizar sus deberes y demás actividades académicas. Esto genera un problema, debido a que en muchas ocasiones los estudiantes tienen que movilizarse entre varias aulas, pues no conocen la disponibilidad de estas debido a sus clases o horarios de limpieza. Esto suele causar el retraso en el inicio de clases provocando molestias en varios profesores y pérdida de tiempo de los estudiantes. 
